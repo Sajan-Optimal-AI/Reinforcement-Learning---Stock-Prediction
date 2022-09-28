@@ -1,4 +1,12 @@
-# Reinforcement-Learning---Stock-Prediction
+
 Reinforcement Learning
 
-In this repository , you can find stock prediction projects in all levels such as low fair to high accuracy...For the details of the project and also the description check notebooks......
+In this repository , you can find 
+
+1. Stock Prediction using Reinforcement Learning
+
+2.Froze Lake Implementation in Google colab using Q learning
+
+3.Cart-Pole implementation using DQN using Keras-RL
+
+And more to come
